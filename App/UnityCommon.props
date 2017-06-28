@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>City3D</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\holo\Documents\Hololens_Demos_for_SnT_Partnership_Day\Choice3D_v3\City3D\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\holo\Documents\Hololens_Demos_for_SnT_Partnership_Day\Choice3D_v3\City3D\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

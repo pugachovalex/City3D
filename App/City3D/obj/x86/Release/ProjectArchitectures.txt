@@ -1,0 +1,4 @@
+C:\Users\holo\Documents\Hololens_Demos_for_SnT_Partnership_Day\Choice3D_v3\City3D\App\City3D\City3D.csproj;x86
+C:\Users\holo\Documents\Hololens_Demos_for_SnT_Partnership_Day\Choice3D_v3\City3D\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\holo\Documents\Hololens_Demos_for_SnT_Partnership_Day\Choice3D_v3\City3D\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\holo\Documents\Hololens_Demos_for_SnT_Partnership_Day\Choice3D_v3\City3D\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
