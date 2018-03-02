@@ -22,7 +22,7 @@ Spheres, which represent customers, has been marked according to the classifier.
 A core of visualization is to locate customers in 3D space, navigate among them by using gaze and see relevant information by clicking. For this demo, 3D map of a part of Luxembourg city was reconstructed from Google Earth View. The map conforms a district from which real data has been collected. 
 
 <img src="https://github.com/pugachovalex/City3D/blob/master/img1.JPG" width="300" height="193">
-<img src="https://github.com/pugachovalex/City3D/blob/master/img2.JPG" width="300" height="450">
+<img src="https://github.com/pugachovalex/City3D/blob/master/img2.JPG" width="450" height="300">
 
 
 
