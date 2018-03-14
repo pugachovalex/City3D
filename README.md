@@ -12,9 +12,10 @@ This demo was created during my internship at SnT, University of Luxembourg, in 
 Authors utilized a machine learning approach to tackle this problem. More details (description of data, feature selection, feature extraction, selection of models, evaluation) can be found in the paper. Here I would like to give a short overview about holographic visualization with Hololens. 
 
 ## How visualization contributes
+The NTL detection approach allows to predict whether customers cause NTL or not. It can then be used to trigger possible inspections of customers that have irregular electricity consumption patterns. Subsequently, technicians carry out inspections, which allow them to remove possible manipulations or malfunctions of the power distribution infrastructure [1]. However, carrying out inspection can be costly. Therefore, visualization approach of the  meter data aims to help domain experts to alleviate making the final decisions of which customers to inspect. 
 
-The NTL detection approach allows to predict whether customers cause NTL or not. It can then be used to trigger possible inspections of customers that have irregular electricity consumption patterns. Subsequently, technicians carry out inspections, which allow them to remove possible manipulations or malfunctions of the power distribution infrastructure [1]. However, carrying out inspection can be costly. Therefore, visualization approach of the  meter aims to help domain experts to alleviate making the final decisions of which customers to inspect. 
-##Objects representation
+## Objects representation
+
 Spheres, which represent customers, has been marked according to the classifier. By navigating, domain expert can click on the customer, see yearly consumption meter data and corresponding graph. This helps to make a more awared decision about sending inspection to the customers and provide addition check to the validity of the model results. 
 
 ## Augmented Reality Visualization
